@@ -89,7 +89,7 @@ header h1 {
 
 .card:hover {
   transform: translateY(-10px);
-  box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+  box-shadow: 0 12px 24px #1b0774;
 }
 
 .chart-placeholder {
